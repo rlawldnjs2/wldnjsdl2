@@ -2,4 +2,8 @@ rkawdnjs
 dlqslek
 wjsmsdy
 
+<<<<<<< HEAD
 22222
+=======
+11
+>>>>>>> main
